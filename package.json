@@ -1,0 +1,28 @@
+{
+  "name": "duties",
+  "version": "0.0.0",
+  "description": "A generator based task scheduler",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node ./examples/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtfaremyinitials/Duties.git"
+  },
+  "keywords": [
+    "task",
+    "scheduler",
+    "dutie",
+    "generator"
+  ],
+  "author": "Will Franzen <wtfranzen@gmail.com> (http://will.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtfaremyinitials/Duties/issues"
+  },
+  "homepage": "https://github.com/wtfaremyinitials/Duties"
+}
